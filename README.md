@@ -1,7 +1,8 @@
 # BiblioFuse
 Shrink ebook file sizes and merge multiple chapters into a single master EPUB effortlessly.
 
-<img width="3168" height="1344" alt="BiblioFuse master_banner" src="https://github.com/user-attachments/assets/62eb36ff-98c0-4c9e-9940-12aefad22d8e" />
+<img width="3168" height="1344" alt="BiblioFuse master_banner" src="https://github.com/user-attachments/assets/85acda2c-0b65-421a-864a-b7dcd74d7904" />
+
 
 **Is your digital library taking up too much space? Do you have scattered EPUB chapters that need to be one book?**
 
