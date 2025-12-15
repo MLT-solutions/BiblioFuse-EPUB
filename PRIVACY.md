@@ -1,6 +1,6 @@
 **Privacy Policy for BiblioFuse**
 
-**Last updated:** [Date]
+**Last updated:** 15th Dec 2025
 
 **1. Data Collection**
 BiblioFuse is a local desktop application. We do not collect, store, or transmit any personal data, file content, or usage statistics to external servers. All file processing (compression and merging) occurs strictly within your device's local memory and storage.
