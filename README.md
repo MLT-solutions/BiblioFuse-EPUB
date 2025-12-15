@@ -1,4 +1,7 @@
 # BiblioFuse
+
+![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/Built%20With-Python%20%7C%20Tkinter-yellow)
+
 Shrink ebook file sizes and merge multiple chapters into a single master EPUB effortlessly.
 
 <img width="3168" height="1344" alt="BiblioFuse master_banner" src="https://github.com/user-attachments/assets/85acda2c-0b65-421a-864a-b7dcd74d7904" />
