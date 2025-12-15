@@ -1,4 +1,4 @@
-# BiblioFuse
+# BiblioFuse - EPUB Compress & Merge Tool
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/Built%20With-Python%20%7C%20Tkinter-yellow)
 
