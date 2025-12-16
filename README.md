@@ -27,6 +27,6 @@ BiblioFuse is the ultimate utility for ebook collectors, students, and digital a
 | **Merging** | Disabled | **Fully Enabled** |
 | **Queue System** | 1 item each time| **Drag-and-Drop Queue** |
 | **Support** | Standard | **Priority** |
-| **GET** | TBC [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PDLLHDZ6KKL) | [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PDLLHDZ6KKL) |
+| **GET WINDOWS VERSION** | [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9N0WN844PWW0) | [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PDLLHDZ6KKL) |
 
 Get organized today with BiblioFuse\!
